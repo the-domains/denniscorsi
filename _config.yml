@@ -1,0 +1,28 @@
+name: Dennis Corsi
+favicon: null
+layout_spectrum: 0.15454454510472715
+typography_spectrum: 0.019141728524118662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6882072316948324
+  lightness: 0.5187299842946231
+  saturation: 0.8087514995131642
+  rhythmicContrast: 0.36646814714185894
+purpose: []
